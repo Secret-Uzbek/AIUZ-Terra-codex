@@ -135,7 +135,7 @@ class TerraDocumentQuark:
     "version": "2.0",
     "author_did": "aiuz:did:aiuz:stakeholder:abdukarimov_aaahash1234567890",
     "hash_signature": "AIUZ-4f3a9b2c8e7d6e5f4a3b2c1d0e9f8a7b6c5d4e3f2a1b",
-    "qr_verification": "AIUZ://auth/4f3a9b2c8e7d6e5f4a3b2c1d0e9f8a7b6c5d4e3f2a1b@aiuz2025.local"
+    "qr_verification": "AIUZ://auth/a.abdukarimov@fractal-metascience.org"
   },
   "semantic_layer": {
     "terra_quark_level": 0.5,
@@ -658,7 +658,7 @@ class TerraBlockchainIntegration:
 ***
 
 **Автор:** Абдукаримов Абдурашид Абдулхамитович\
-**Email:** <secret.uzbek@tutamail.com>\
+**Email:** <a.abdukarimov@fractal-metascience.org>\
 **DID:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890\
 **Terra Copyright:** TerraHuman-AI-2025\
 **License:** Creative Commons Attribution-ShareAlike 4.0 International
