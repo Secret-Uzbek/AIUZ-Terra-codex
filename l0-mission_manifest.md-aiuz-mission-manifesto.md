@@ -189,12 +189,12 @@ L0_Foundation:
 * **DAO Governance:** `governance.aiuz.org`
 * **Community Forum:** `community.terra-codex.org`
 * **Cultural Contributions:** `culture.aiuz.org`
-* **Child Safety Feedback:** `safety@aiuz.org`
+* **Child Safety Feedback:** `a.abdukarimov@fractal-metascience.org`
 
 ***
 
 **Document Hash:** `AIUZ-mission-manifest-a1b2c3d4e5f6g7h8i9j0`\
-**QR Verification:** `AIUZ://verify/mission-manifest@aiuz2025.local`\
+**QR Verification:** `AIUZ://verify/a.abdukarimov@fractal-metascience.org`\
 **Terra Copyright:** TerraHuman-AI-2025\
 **License:** Creative Commons Attribution-ShareAlike 4.0 International
 
