@@ -224,7 +224,7 @@ Compliance_Specification:
 Финансовые_показатели:
   Размер_архива: "<100MB"
   Лицензия: "CC BY-NC-SA 4.0"
-  Контакт: "grants@aiuz.org"
+  Контакт: "a.abdukarimov@fractal-metascience.org"
 ```
 
 ### Токеномическая модель:
