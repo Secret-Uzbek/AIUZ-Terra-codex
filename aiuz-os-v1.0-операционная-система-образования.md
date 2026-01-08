@@ -211,4 +211,4 @@ content_types:
 ✅ Cultural Sensitivity: Основа философии\
 ✅ Ethical AI: Моральные принципы в коде
 
-**Email:** <a.a.abdukarimov@tutamail.com>
+**Email:** <a.abdukarimov@fractal-metascience.org>
