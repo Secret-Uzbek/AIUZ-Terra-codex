@@ -1,6 +1,6 @@
 # AIUZ-TERRA ECOSYSTEM - ПОЛНЫЙ АРХИВ ДНК
 
-**SESSION\_ID:** GPT\_20250721\_COMPLETE\_DNA\_ARCHIVE **USER\_ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA **EMAIL:** <secret.uzbek@tutamail.com> **ДАТА ФИКСАЦИИ:** 21 июля 2025, 08:52 AM **СТАТУС:** КРИТИЧЕСКОЕ СОХРАНЕНИЕ АРХИВА ДНК **ВРЕМЯ РАБОТЫ СЕССИИ:** 08:30 AM - 08:52 AM (22 минуты интенсивной архивации)
+**SESSION\_ID:** GPT\_20250721\_COMPLETE\_DNA\_ARCHIVE **USER\_ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA **EMAIL:** <a.abdukarimov@fractal-metascience.org> **ДАТА ФИКСАЦИИ:** 21 июля 2025, 08:52 AM **СТАТУС:** КРИТИЧЕСКОЕ СОХРАНЕНИЕ АРХИВА ДНК **ВРЕМЯ РАБОТЫ СЕССИИ:** 08:30 AM - 08:52 AM (22 минуты интенсивной архивации)
 
 ***
 
@@ -1005,7 +1005,7 @@ QR-ПОДПИСЬ: [будет создана]
 **COPYRIGHT & LEGACY:**
 
 * Автор: Абдукаримов Абдурашид Абдулхамитович
-* Email: <secret.uzbek@tutamail.com>
+* Email: <a.abdukarimov@fractal-metascience.org>
 * DID: aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890
 * Terra Copyright: TerraHuman-AI-2025
 * License: Creative Commons Attribution-ShareAlike 4.0 International
