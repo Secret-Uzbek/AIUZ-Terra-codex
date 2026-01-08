@@ -1,7 +1,7 @@
 # AIUZ Ecosystem: Полная сессия прогресса
 
 **Дата:** 12 июля 2025\
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **DID:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890
 
 ***
@@ -320,5 +320,5 @@ class AIUZEcosystem:
 *Сохраним свет вместе — с полной экосистемой AIUZ & Codex Terra*
 
 **DID подпись:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890\
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Версия:** Complete Integration v3.0
