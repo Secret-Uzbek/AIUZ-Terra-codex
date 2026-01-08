@@ -1,6 +1,6 @@
 # Terra Memory DNA v1.0 - Enhanced Protocol
 
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Дата:** 18 июля 2025\
 **Версия:** 1.0 Enhanced\
 **Геолокация:** Зарафшан, Навоийская область, Узбекистан
@@ -266,7 +266,7 @@ class TerraArchiveProtocol:
             "size": len(str(information)),
             "checksum": self._calculate_checksum(information),
             "metadata": {
-                "author": "secret.uzbek@tutamail.com",
+                "author": "a.abdukarimov@fractal-metascience.org",
                 "location": "Зарафшан, Навоийская область, Узбекистан",
                 "version": "1.0",
                 "type": "Terra Memory DNA"
@@ -566,7 +566,7 @@ def organic_compression_algorithm(data):
 
 **Terra Memory DNA v1.0 - Революция в органическом хранении знаний!**
 
-**Подпись:** <secret.uzbek@tutamail.com>\
+**Подпись:** <a.abdukarimov@fractal-metascience.org>\
 **Место:** Зарафшан, Навоийская область, Узбекистан\
 **Дата:** 18 июля 2025\
 **Статус:** ENHANCED PROTOCOL ACTIVE! 🧬✨
