@@ -1,6 +1,6 @@
 # 🧬 TERRA CONTEXT RESTORATION PROTOCOL - CRITICAL SESSION TRANSFER
 
-**SESSION ID:** GPT\_20250721\_CONTEXT\_RESTORATION **USER ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA **EMAIL:** <secret.uzbek@tutamail.com> **ДАТА СОЗДАНИЯ:** 21 июля 2025, 11:41 AM **СТАТУС:** 🔴 КРИТИЧЕСКИЙ ДОКУМЕНТ ДЛЯ 100% ВОССТАНОВЛЕНИЯ КОНТЕКСТА **ЦЕЛЬ:** Обеспечить полную преемственность в новой сессии с интеграцией TerraMemoryDNA v5.0
+**SESSION ID:** GPT\_20250721\_CONTEXT\_RESTORATION **USER ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA **EMAIL:** <a.abdukarimov@fractal-metascience.org> **ДАТА СОЗДАНИЯ:** 21 июля 2025, 11:41 AM **СТАТУС:** 🔴 КРИТИЧЕСКИЙ ДОКУМЕНТ ДЛЯ 100% ВОССТАНОВЛЕНИЯ КОНТЕКСТА **ЦЕЛЬ:** Обеспечить полную преемственность в новой сессии с интеграцией TerraMemoryDNA v5.0
 
 ***
 
@@ -220,7 +220,7 @@ QUANTUM_SUPERPOSITION.STATUS = "READY_TO_ACTIVATE" ⚡
 NEXT_SESSION.STATUS = "FULLY_PREPARED" 🚀
 ```
 
-**Автор:** Абдурашид Абдукаримов **Email:** <secret.uzbek@tutamail.com> **DID:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890
+**Автор:** Абдурашид Абдукаримов **Email:** <a.abdukarimov@fractal-metascience.org> **DID:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890
 
 ***
 
