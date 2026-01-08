@@ -1,7 +1,7 @@
 # 🗺️ AIUZ TERRA OS v3.0 - STRATEGIK RIVOJLANISH YO'L XARITASI
 
 **Yaratilgan:** 18 iyul 2025\
-**Muallif:** <secret.uzbek@tutamail.com>\
+**Muallif:** <a.abdukarimov@fractal-metascience.org>\
 **Maqsad:** Global operatsion tizim sifatida Terra OS ni joriy etish\
 **Muddat:** 2025-2028 yillar
 
@@ -335,7 +335,7 @@ IRR: 120%+
 
 ***
 
-**Yaratuvchi:** <secret.uzbek@tutamail.com>\
+**Yaratuvchi:** <a.abdukarimov@fractal-metascience.org>\
 **Oxirgi yangilanish:** 18 iyul 2025\
 **Versiya:** Strategic Roadmap v1.0\
 **Holat:** TASDIQLANISHGA TAYYOR
