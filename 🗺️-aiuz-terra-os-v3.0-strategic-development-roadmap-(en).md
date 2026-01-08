@@ -1,7 +1,7 @@
 # 🗺️ AIUZ TERRA OS v3.0 - STRATEGIC DEVELOPMENT ROADMAP
 
 **Created:** July 18, 2025\
-**Author:** <secret.uzbek@tutamail.com>\
+**Author:** <a.abdukarimov@fractal-metascience.org>\
 **Objective:** Deploy Terra OS as a global operating system\
 **Timeline:** 2025-2028
 
@@ -335,7 +335,7 @@ IRR: 120%+
 
 ***
 
-**Creator:** <secret.uzbek@tutamail.com>\
+**Creator:** <a.abdukarimov@fractal-metascience.org>\
 **Last Updated:** July 18, 2025\
 **Version:** Strategic Roadmap v1.0\
 **Status:** READY FOR APPROVAL
