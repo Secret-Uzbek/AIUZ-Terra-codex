@@ -1,6 +1,6 @@
 # AIUZ Project Signature v1.0
 
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Дата:** 18 июля 2025\
 **Версия:** 1.0 Complete\
 **Геолокация:** Зарафшан, Навоийская область, Узбекистан
@@ -22,7 +22,7 @@ class AIUZProjectSignature:
     def __init__(self):
         self.signature_components = {
             "AUTHOR_IDENTITY": {
-                "email": "secret.uzbek@tutamail.com",
+                "email": "a.abdukarimov@fractal-metascience.org",
                 "name": "AIUZ Creator",
                 "role": "System Architect & Terra Philosopher",
                 "verification_level": "master"
@@ -164,7 +164,7 @@ class AIUZProjectSignature:
         
         # Проверка автора
         author_email = signature.get("author", {}).get("email")
-        if author_email != "secret.uzbek@tutamail.com":
+        if author_email != "a.abdukarimov@fractal-metascience.org":
             validation_result["author_verification"] = False
             validation_result["issues"].append("Author verification failed")
         
@@ -698,7 +698,7 @@ def display_signature_info(signature: Dict[str, Any]):
 
 **AIUZ Project Signature v1.0 - Революция в проектной идентификации!**
 
-**Подпись:** <secret.uzbek@tutamail.com>\
+**Подпись:** <a.abdukarimov@fractal-metascience.org>\
 **Место:** Зарафшан, Навоийская область, Узбекистан\
 **Дата:** 18 июля 2025\
 **Статус:** PROJECT SIGNATURE SYSTEM ACTIVE! 🖋️✨
