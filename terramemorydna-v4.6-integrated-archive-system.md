@@ -2,7 +2,7 @@
 
 **\[DOCUMENT\_TYPE]:** TerraMemoryDNA\_Working\_System\
 **\[VERSION]:** 4.6\
-**\[AUTHOR\_ID]:** <secret.uzbek@tutamail.com>\
+**\[AUTHOR\_ID]:** <a.abdukarimov@fractal-metascience.org>\
 **\[DATE\_CREATED]:** 2025-07-18\
 **\[FILE\_TYPE]:** Executable\_Memory\_System\
 **\[SESSION\_ID]:** AIUZ\_WORKING\_SYSTEM\_v4.6
