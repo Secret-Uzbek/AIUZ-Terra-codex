@@ -421,7 +421,7 @@ Load Balancer → Regional Hubs → Local Clusters → Terra Cores
 ***
 
 **Автор:** Абдукаримов Абдурашид Абдулхамитович\
-**Email:** <secret.uzbek@tutamail.com>\
+**Email:** <a.abdukarimov@fractal-metascience.org>\
 **DID:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890\
 **Terra Copyright:** TerraHuman-AI-2025\
 **License:** Creative Commons Attribution-ShareAlike 4.0 International
