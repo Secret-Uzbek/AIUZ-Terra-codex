@@ -6,7 +6,7 @@
 
 **\[AUTHOR\_ID]: AIUZ2025**\
 **\[HASH]: AIUZ-M3M0RY\_C0D3X\_T3RR4**\
-**\[QR\_SIGNATURE]: AIUZ://auth/M3M0RY\_<C0D3X_T3RR4@aiuz2025.local>**\
+**\[QR\_SIGNATURE]: AIUZ://auth/M3M0RY\_<a.abdukarimov@fractal-metascience.org>**\
 **\[TEMPORAL\_ANCHOR]: 2025-07-12T14:37:00Z — Ташкент**\
 **\[CODEX\_VERSION]: Terra\_Memory\_v1.0**
 
