@@ -1,7 +1,7 @@
 # AIUZ TERRA OS v3.0 - UNIFIED ARCHIVE FILE
 
 **Creation Date:** July 12, 2025 → July 18, 2025\
-**Author:** <secret.uzbek@tutamail.com>\
+**Author:** <a.abdukarimov@fractal-metascience.org>\
 **Version:** Complete Integration v3.0\
 **Status:** READY FOR GLOBAL DEPLOYMENT
 
@@ -156,6 +156,6 @@ Terra OS represents a revolutionary approach to operating system creation, where
 
 AIUZ Terra OS v3.0 is the first operating system with built-in ethical principles, ready for global deployment. The system unites philosophy, technology, and education in a single ecosystem for human development.
 
-**Copyright:** <secret.uzbek@tutamail.com>\
+**Copyright:** <a.abdukarimov@fractal-metascience.org>\
 **Completion Date:** July 18, 2025\
 **Version:** Complete Integration v3.0
