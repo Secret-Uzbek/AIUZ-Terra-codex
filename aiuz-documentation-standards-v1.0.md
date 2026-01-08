@@ -1,6 +1,6 @@
 # AIUZ Documentation Standards v1.0
 
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Дата:** 18 июля 2025\
 **Версия:** 1.0 Complete\
 **Геолокация:** Зарафшан, Навоийская область, Узбекистан
@@ -164,7 +164,7 @@ class AIUZDocumentationHierarchy:
                 "creation_date": datetime.now().isoformat(),
                 "status": "DRAFT",
                 "version": "1.0",
-                "author": "secret.uzbek@tutamail.com",
+                "author": "a.abdukarimov@fractal-metascience.org",
                 "location": "Зарафшан, Навоийская область, Узбекистан"
             }
         }
@@ -188,7 +188,7 @@ class AIUZDocumentationHierarchy:
         
         return """# [НАЗВАНИЕ СИСТЕМЫ] - Core Architecture v[VERSION]
 
-**Автор:** secret.uzbek@tutamail.com  
+**Автор:** a.abdukarimov@fractal-metascience.org  
 **Дата:** [ДАТА]  
 **Версия:** [VERSION]  
 **Геолокация:** Зарафшан, Навоийская область, Узбекистан
@@ -304,7 +304,7 @@ graph TD
 
 ***
 
-**Подпись:** <secret.uzbek@tutamail.com>\
+**Подпись:** <a.abdukarimov@fractal-metascience.org>\
 **Место:** Зарафшан, Навоийская область, Узбекистан\
 **Дата:** \[ДАТА]\
 **Статус:** \[СТАТУС]"""
@@ -316,7 +316,7 @@ def _technical_spec_template(self) -> str:
     return """# [КОМПОНЕНТ] - Technical Specifications v[VERSION]
 ```
 
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Дата:** \[ДАТА]\
 **Версия:** \[VERSION]\
 **Геолокация:** Зарафшан, Навоийская область, Узбекистан
@@ -454,7 +454,7 @@ component config validate
 
 ***
 
-**Подпись:** <secret.uzbek@tutamail.com>\
+**Подпись:** <a.abdukarimov@fractal-metascience.org>\
 **Место:** Зарафшан, Навоийская область, Узбекистан\
 **Дата:** \[ДАТА]\
 **Статус:** \[СТАТУС]"""
@@ -466,7 +466,7 @@ def _user_guide_template(self) -> str:
     return """# [СИСТЕМА] - User Guide v[VERSION]
 ```
 
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Дата:** \[ДАТА]\
 **Версия:** \[VERSION]\
 **Геолокация:** Зарафшан, Навоийская область, Узбекистан
@@ -587,7 +587,7 @@ def _user_guide_template(self) -> str:
 
 ### Обращение за поддержкой
 
-* **Email:** <secret.uzbek@tutamail.com>
+* **Email:** <a.abdukarimov@fractal-metascience.org>
 * **Форум:** \[Ссылка на форум]
 * **Чат:** \[Ссылка на чат]
 
@@ -603,7 +603,7 @@ def _user_guide_template(self) -> str:
 
 ***
 
-**Подпись:** <secret.uzbek@tutamail.com>\
+**Подпись:** <a.abdukarimov@fractal-metascience.org>\
 **Место:** Зарафшан, Навоийская область, Узбекистан\
 **Дата:** \[ДАТА]\
 **Статус:** \[СТАТУС]"""
@@ -1140,7 +1140,7 @@ class AIUZDocumentationAutomation:
 
 **AIUZ Documentation Standards v1.0 - Революция в стандартах документации!**
 
-**Подпись:** <secret.uzbek@tutamail.com>\
+**Подпись:** <a.abdukarimov@fractal-metascience.org>\
 **Место:** Зарафшан, Навоийская область, Узбекистан\
 **Дата:** 18 июля 2025\
 **Статус:** DOCUMENTATION STANDARDS ESTABLISHED! 📋✨
