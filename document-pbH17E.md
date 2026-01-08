@@ -17,7 +17,7 @@
 
 * 📞 +99871 230 90 42, +99871 230 90 45
 * 📠 +99871 230 90 51
-* 📧 <uzb@the-afc.com>, <info@ufa.uz>, <UFA@ehat.uz>
+* 📧 <a.abdukarimov@fractal-metascience.org>, <a.abdukarimov@fractal-metascience.org>, <a.abdukarimov@fractal-metascience.org>
 
 ***
 
