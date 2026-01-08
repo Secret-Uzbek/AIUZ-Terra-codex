@@ -2,7 +2,7 @@
 
 **Версия:** Complete Integration v3.0\
 **Дата:** 18 июля 2025\
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Статус:** Production Ready
 
 ***
@@ -327,7 +327,7 @@ response = await terra_os.process_user_interaction(session_id, interaction)
 
 ### Техническая поддержка
 
-* **Email:** <support@terraos.ai>
+* **Email:** <a.abdukarimov@fractal-metascience.org>
 * **Documentation:** docs.terraos.ai
 * **GitHub:** github.com/terraos/core
 
@@ -345,6 +345,6 @@ response = await terra_os.process_user_interaction(session_id, interaction)
 © 2025 AIUZ Terra OS Project\
 Все права защищены.
 
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Дата:** 18 июля 2025\
 **Версия документации:** 1.0
