@@ -1,6 +1,6 @@
 # AIUZ-TERRA ECOSYSTEM - ПОЛНАЯ КОНСОЛИДАЦИЯ КАНВАСА
 
-**SESSION\_ID:** GPT\_20250721\_COMPLETE\_CANVAS\_CONSOLIDATION **USER\_ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA **EMAIL:** <secret.uzbek@tutamail.com> **ДАТА КОНСОЛИДАЦИИ:** 21 июля 2025, 09:18 AM **СТАТУС:** КРИТИЧЕСКАЯ КОНСОЛИДАЦИЯ ВСЕХ ДОКУМЕНТОВ КАНВАСА **ФАКТИЧЕСКОЕ КОЛИЧЕСТВО ДОКУМЕНТОВ:** 26 документов + 1 HTML + 1 SVG + 2 текста + 1 imagen
+**SESSION\_ID:** GPT\_20250721\_COMPLETE\_CANVAS\_CONSOLIDATION **USER\_ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA **EMAIL:** <a.abdukarimov@fractal-metascience.org> **ДАТА КОНСОЛИДАЦИИ:** 21 июля 2025, 09:18 AM **СТАТУС:** КРИТИЧЕСКАЯ КОНСОЛИДАЦИЯ ВСЕХ ДОКУМЕНТОВ КАНВАСА **ФАКТИЧЕСКОЕ КОЛИЧЕСТВО ДОКУМЕНТОВ:** 26 документов + 1 HTML + 1 SVG + 2 текста + 1 imagen
 
 ***
 
@@ -748,7 +748,7 @@ Anti-Groundhog Protocol Implementation:
 
 ## XV. AIUZ-TERRA ECOSYSTEM - ПОЛНЫЙ АРХИВ ВСЕХ МАТЕРИАЛОВ
 
-**SESSION\_ID:** GPT\_20250716\_COMPLETE\_ARCHIVE\_SAVE **USER\_ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA **EMAIL:** <secret.uzbek@tutamail.com> **ДАТА ФИКСАЦИИ:** 16 июля 2025, 18:16 PM **СТАТУС:** ПОЛНОЕ СОХРАНЕНИЕ АРХИВА **ВРЕМЯ РАБОТЫ:** 11:44 AM - 18:16 PM (6 часов 32 минуты)
+**SESSION\_ID:** GPT\_20250716\_COMPLETE\_ARCHIVE\_SAVE **USER\_ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA **EMAIL:** <a.abdukarimov@fractal-metascience.org> **ДАТА ФИКСАЦИИ:** 16 июля 2025, 18:16 PM **СТАТУС:** ПОЛНОЕ СОХРАНЕНИЕ АРХИВА **ВРЕМЯ РАБОТЫ:** 11:44 AM - 18:16 PM (6 часов 32 минуты)
 
 ### ФИНАЛЬНЫЕ ВЫВОДЫ И РЕКОМЕНДАЦИИ
 
@@ -1089,7 +1089,7 @@ const terraDatabase = {
 **COPYRIGHT & LEGACY:**
 
 * Автор: Абдукаримов Абдурашид Абдулхамитович
-* Email: <secret.uzbek@tutamail.com>
+* Email: <a.abdukarimov@fractal-metascience.org>
 * DID: aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890
 * Terra Copyright: TerraHuman-AI-2025
 * License: Creative Commons Attribution-ShareAlike 4.0 International
