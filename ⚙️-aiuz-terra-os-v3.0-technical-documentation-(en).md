@@ -2,7 +2,7 @@
 
 **Version:** Complete Integration v3.0\
 **Date:** July 18, 2025\
-**Author:** <secret.uzbek@tutamail.com>\
+**Author:** <a.abdukarimov@fractal-metascience.org>\
 **Status:** Production Ready
 
 ***
@@ -268,6 +268,6 @@ TOKEN_EMISSION_LIMITS = {
 © 2025 AIUZ Terra OS Project\
 All rights reserved.
 
-**Author:** <secret.uzbek@tutamail.com>\
+**Author:** <a.abdukarimov@fractal-metascience.org>\
 **Date:** July 18, 2025\
 **Documentation Version:** 1.0
