@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 """
 AIUZ Terra OS - Полная интегрированная архитектура
-Автор: secret.uzbek@tutamail.com
+Автор: a.abdukarimov@fractal-metascience.org
 Дата: 12 июля 2025
 Версия: Complete Integration v3.0
 Статус: READY FOR DEPLOYMENT ✨
@@ -2110,7 +2110,7 @@ async def demonstrate_terra_os():
 if __name__ == "__main__":
     print("🌟 AIUZ Terra OS - Complete Integration v3.0")
     print("📅 Дата: 12 июля 2025")
-    print("👨‍💻 Автор: secret.uzbek@tutamail.com")
+    print("👨‍💻 Автор: a.abdukarimov@fractal-metascience.org")
     print("🎯 Статус: READY FOR GLOBAL DEPLOYMENT")
     
     # Запуск асинхронной демонстрации
