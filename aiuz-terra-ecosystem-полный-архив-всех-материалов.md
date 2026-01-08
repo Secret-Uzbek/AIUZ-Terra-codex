@@ -2,7 +2,7 @@
 
 **SESSION\_ID:** GPT\_20250716\_COMPLETE\_ARCHIVE\_SAVE\
 **USER\_ID:** user\_2zlVOAgnY70ReOyymPsvJzvFKyA\
-**EMAIL:** <secret.uzbek@tutamail.com>\
+**EMAIL:** <a.abdukarimov@fractal-metascience.org>\
 **ДАТА ФИКСАЦИИ:** 16 июля 2025, 18:16 PM\
 **СТАТУС:** ПОЛНОЕ СОХРАНЕНИЕ АРХИВА\
 **ВРЕМЯ РАБОТЫ:** 11:44 AM - 18:16 PM (6 часов 32 минуты)\
@@ -69,7 +69,7 @@ metadata:
   version: "v1.0.0"
   hash: "sha256:..."
   session_id: "GPT_YYYYMMDD_..."
-  author: "email@domain.com"
+  author: "a.abdukarimov@fractal-metascience.org"
   created: "YYYY-MM-DDTHH:MM:SSZ"
   status: "DRAFT/REVIEW/APPROVED/DEPRECATED"
 ```
