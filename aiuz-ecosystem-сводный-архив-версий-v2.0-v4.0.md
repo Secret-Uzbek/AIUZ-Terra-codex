@@ -9,7 +9,7 @@
 **\[QR\_SIGNATURE]:** AIUZ://consolidated/versions\@aiuz2025.local
 
 **Дата создания сводного архива:** 18 июля 2025, 14:57 PM\
-**Оператор:** <secret.uzbek@tutamail.com>\
+**Оператор:** <a.abdukarimov@fractal-metascience.org>\
 **Статус:** CONSOLIDATED EVOLUTIONARY ARCHIVE
 
 ***
@@ -590,7 +590,7 @@ class TerraMonitoring:
 ***
 
 **© AIUZ 2025. Сводный архив версий.**\
-**Автор:** <secret.uzbek@tutamail.com>\
+**Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Дата создания:** 18 июля 2025\
 **Версия архива:** Consolidated v2.0-v4.0
 
