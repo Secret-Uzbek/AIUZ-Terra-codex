@@ -71,7 +71,7 @@
 ***
 
 **Автор:** Абдурашид Абдукаримов\
-**Email:** <a.a.abdukarimov@tutamail.com>\
+**Email:** <a.abdukarimov@fractal-metascience.org>\
 **DID:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890
 
 **Terra Compliance:** ✅ Child Safety | ✅ Vendor Independence | ✅ Cultural Sensitivity | ✅ Ethical AI
