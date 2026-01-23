@@ -203,3 +203,8 @@ L0_Foundation:
 *This manifesto is the foundational document of the AIUZ ecosystem and serves as the philosophical guidance for all technical and governance decisions.*
 
 **Child Safety ✅ | Vendor Independence ✅ | Cultural Sensitivity ✅ | Ethical AI ✅**
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
