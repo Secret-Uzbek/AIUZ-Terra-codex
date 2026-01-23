@@ -463,3 +463,8 @@ sigma_core.initialization.status() {
 **End of Σ-CORE Documentation**\
 **System Status: ACTIVE AND MONITORING**\
 **Next Update: As development progresses**
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
