@@ -129,3 +129,8 @@ COMPLIANCE_LEVEL: MAXIMUM_CERTIFICATION
 ***
 
 *This certification is valid until superseded by Terra Standards v8.0 or operator directive.*
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
