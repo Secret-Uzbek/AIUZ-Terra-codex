@@ -339,3 +339,8 @@ IRR: 120%+
 **Last Updated:** July 18, 2025\
 **Version:** Strategic Roadmap v1.0\
 **Status:** READY FOR APPROVAL
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
