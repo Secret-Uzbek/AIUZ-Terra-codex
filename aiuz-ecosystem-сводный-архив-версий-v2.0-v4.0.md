@@ -595,3 +595,8 @@ class TerraMonitoring:
 **Версия архива:** Consolidated v2.0-v4.0
 
 **Готов к созданию мультиязычных методологий на основе сводного архива.**
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
