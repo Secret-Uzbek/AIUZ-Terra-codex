@@ -251,3 +251,8 @@ ready.for.terra.expansion() 🚀
 ***
 
 **КОНЕЦ ДОКУМЕНТА `README_FULL_Codex.md`**
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
