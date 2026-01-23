@@ -1095,3 +1095,8 @@ const terraDatabase = {
 * License: Creative Commons Attribution-ShareAlike 4.0 International
 
 *Полная консолидация выполнена в соответствии с принципами AIUZ Terra Codex* *Child Safety ✅ | Vendor Independence ✅ | Cultural Preservation ✅ | Ethical AI ✅*
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
