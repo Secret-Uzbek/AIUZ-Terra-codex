@@ -159,3 +159,8 @@ AIUZ Terra OS v3.0 - это первая операционная система
 **Авторские права:** <a.abdukarimov@fractal-metascience.org>\
 **Дата завершения:** 18 июля 2025\
 **Версия:** Complete Integration v3.0
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
