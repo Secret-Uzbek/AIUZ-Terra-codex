@@ -295,3 +295,8 @@ validation_metrics:
 ✅ Vendor Independence: Собственная разработка без внешних зависимостей\
 ✅ Cultural Sensitivity: Сохранение культурного контекста\
 ✅ Ethical AI: Этичное использование памяти и данных
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
