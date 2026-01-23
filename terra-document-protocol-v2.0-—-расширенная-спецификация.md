@@ -667,3 +667,8 @@ class TerraBlockchainIntegration:
 
 *Документ создан в полном соответствии с Terra Document Protocol v2.0*\
 *Child Safety ✅ | Vendor Independence ✅ | Cultural Sensitivity ✅ | AI Ethics ✅*
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
