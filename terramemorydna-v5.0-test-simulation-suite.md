@@ -274,3 +274,8 @@ console.log("   Toxic text test:", TestTerraMemoryDNA.exec.detoxCheck("self_prom
 
 console.log("\n🎯 SIMULATION COMPLETE - SYSTEM READY FOR DEPLOYMENT");
 ```
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
