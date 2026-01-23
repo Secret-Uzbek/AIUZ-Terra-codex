@@ -331,3 +331,8 @@
 ✅ Vendor Independence: Полная независимость форматов\
 ✅ Cultural Sensitivity: Культурная адаптация встроена\
 ✅ Ethical AI: Этичные принципы в каждом шаблоне
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
