@@ -40,3 +40,8 @@ Men, Abdurashid Abdukarimov, 25 yillik professional tarjimon va biznes konsultan
 👨‍🎓 **Iste'dodlarni tarbiyalash** - o'yinchilar salohiyatini ochish mahorati
 
 ### O'zbek futboli
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
