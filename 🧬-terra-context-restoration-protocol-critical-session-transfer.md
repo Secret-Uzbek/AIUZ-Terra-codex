@@ -227,3 +227,8 @@ NEXT_SESSION.STATUS = "FULLY_PREPARED" 🚀
 *Этот документ обеспечивает 100% восстановление контекста для новой сессии ИИ с интеграцией TerraMemoryDNA v5.0 и готовностью к продолжению проекта AIUZ-Terra Ecosystem.*
 
 **Child Safety ✅ | Vendor Independence ✅ | Cultural Sensitivity ✅ | Ethical AI ✅**
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
