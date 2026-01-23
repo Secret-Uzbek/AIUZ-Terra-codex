@@ -348,3 +348,8 @@ response = await terra_os.process_user_interaction(session_id, interaction)
 **Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Дата:** 18 июля 2025\
 **Версия документации:** 1.0
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
