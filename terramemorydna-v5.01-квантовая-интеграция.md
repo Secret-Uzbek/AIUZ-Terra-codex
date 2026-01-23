@@ -942,3 +942,8 @@ if (typeof module !== 'undefined' && module.exports) {
   window.TerraMemoryDNA_v501_QuantumIntegration = TerraMemoryDNA_v501_QuantumIntegration;
 }
 ```
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
