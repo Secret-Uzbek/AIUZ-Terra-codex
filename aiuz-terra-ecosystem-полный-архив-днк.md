@@ -1011,3 +1011,8 @@ QR-ПОДПИСЬ: [будет создана]
 * License: Creative Commons Attribution-ShareAlike 4.0 International
 
 *Документ создан в полном соответствии с принципами AIUZ OS* *Child Safety ✅ | Semantic-First ✅ | Cultural Preservation ✅ | Open Source ✅ | Ethical AI ✅*
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
