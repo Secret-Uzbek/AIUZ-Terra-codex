@@ -322,3 +322,8 @@ class AIUZEcosystem:
 **DID подпись:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890\
 **Автор:** <a.abdukarimov@fractal-metascience.org>\
 **Версия:** Complete Integration v3.0
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
