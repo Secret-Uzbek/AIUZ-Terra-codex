@@ -284,3 +284,8 @@ The work continues with solid foundations, clear direction, and protocols for co
 qariya.origin.chronicle.COMPLETE() ✅ terra.memory.dna.PRESERVED() 🧠 anti.groundhog.protocol.ACTIVE() 🔄 ready.for.next.evolution.cycle() 🚀
 
 # ============================================== END OF ORIGIN SUMMARY
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
