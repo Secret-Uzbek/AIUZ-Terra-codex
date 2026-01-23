@@ -1001,3 +1001,8 @@ qariya.action.protocol.init() {{
     def _categorize_readiness(self, score: float) -> str:
         """Категоризация уров
 ```
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
