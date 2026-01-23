@@ -570,3 +570,8 @@ def organic_compression_algorithm(data):
 **Место:** Зарафшан, Навоийская область, Узбекистан\
 **Дата:** 18 июля 2025\
 **Статус:** ENHANCED PROTOCOL ACTIVE! 🧬✨
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
