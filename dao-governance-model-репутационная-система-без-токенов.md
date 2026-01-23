@@ -273,3 +273,8 @@ health_metrics:
 ✅ Vendor Independence: Никаких токенов или зависимостей\
 ✅ Cultural Sensitivity: Основан на традиционной мудрости\
 ✅ Ethical AI: Мораль как основа всех решений
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
