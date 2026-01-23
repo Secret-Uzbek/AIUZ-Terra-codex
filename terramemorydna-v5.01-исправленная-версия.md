@@ -725,3 +725,8 @@ if (test\_results.overall && test\_results.context\_binding) { console.log("🎉
 * Используйте CLASS синтаксис (new TerraMemoryDNA\_v501\_QuantumIntegration())
 * НЕ используйте объектный литерал {}
 * Контекст this автоматически привязан \`);
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
