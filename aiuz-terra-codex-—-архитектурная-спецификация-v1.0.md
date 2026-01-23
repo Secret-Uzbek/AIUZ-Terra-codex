@@ -429,3 +429,8 @@ Load Balancer → Regional Hubs → Local Clusters → Terra Cores
 ***
 
 *Документ создан с соблюдением Terra принципов: Child Safety ✅ | Vendor Independence ✅ | Cultural Sensitivity ✅ | Ethical AI ✅*
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
