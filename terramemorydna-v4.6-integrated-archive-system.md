@@ -208,3 +208,8 @@ const TerraMemoryDNA_v46 = {
 **Готова к созданию мультиязычных методологий.**
 
 © AIUZ 2025 | Working Memory System v4.6 🧬
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
