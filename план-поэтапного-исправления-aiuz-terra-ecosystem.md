@@ -75,3 +75,8 @@
 **DID:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890
 
 **Terra Compliance:** ✅ Child Safety | ✅ Vendor Independence | ✅ Cultural Sensitivity | ✅ Ethical AI
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
