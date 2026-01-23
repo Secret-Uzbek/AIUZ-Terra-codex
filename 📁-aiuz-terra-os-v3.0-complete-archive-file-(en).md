@@ -159,3 +159,8 @@ AIUZ Terra OS v3.0 is the first operating system with built-in ethical principle
 **Copyright:** <a.abdukarimov@fractal-metascience.org>\
 **Completion Date:** July 18, 2025\
 **Version:** Complete Integration v3.0
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
