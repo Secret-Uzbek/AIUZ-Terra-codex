@@ -1144,3 +1144,8 @@ class AIUZDocumentationAutomation:
 **Место:** Зарафшан, Навоийская область, Узбекистан\
 **Дата:** 18 июля 2025\
 **Статус:** DOCUMENTATION STANDARDS ESTABLISHED! 📋✨
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
