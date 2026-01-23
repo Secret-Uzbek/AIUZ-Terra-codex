@@ -339,3 +339,8 @@ IRR: 120%+
 **Oxirgi yangilanish:** 18 iyul 2025\
 **Versiya:** Strategic Roadmap v1.0\
 **Holat:** TASDIQLANISHGA TAYYOR
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
