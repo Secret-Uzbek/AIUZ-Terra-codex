@@ -271,3 +271,8 @@ Barcha huquqlar himoyalangan.
 **Muallif:** <a.abdukarimov@fractal-metascience.org>\
 **Sana:** 18 iyul 2025\
 **Hujjat versiyasi:** 1.0
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
