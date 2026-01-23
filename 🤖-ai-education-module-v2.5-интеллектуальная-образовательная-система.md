@@ -585,3 +585,8 @@ if __name__ == "__main__":
     print(f"🌲 Создан сценарий: {scenario.title['ru']}")
     print(f"✅ Этическая валидация пройдена: {scenario.validate_terra_ethics()}")
 ```
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
