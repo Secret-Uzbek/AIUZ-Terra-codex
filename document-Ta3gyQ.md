@@ -511,3 +511,8 @@ class SemanticIoTAPI:
           "term": "{{linked_term}}",
           "relation_type": "{{similarity|analogy|caus
 ```
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
