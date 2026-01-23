@@ -271,3 +271,8 @@ All rights reserved.
 **Author:** <a.abdukarimov@fractal-metascience.org>\
 **Date:** July 18, 2025\
 **Documentation Version:** 1.0
+
+
+---
+**Contact:** a.abdukarimov@fractal-metascience.org  
+**ORCID:** 0009-0000-6394-4912
