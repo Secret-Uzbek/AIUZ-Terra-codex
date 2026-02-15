@@ -383,7 +383,7 @@ class AIUZProjectSignature:
         canonical_data = json.dumps(data, sort_keys=True, ensure_ascii=False)
         
         # Добавляем секретный ключ проекта
-        secret_key = "AIUZ-TERRA-2025-ZARSHAN"
+        secret_key="REDACTED_BY_FMP_GUARD"
         signed_data = f"{canonical_data}:{secret_key}"
         
         # Вычисляем хеш
