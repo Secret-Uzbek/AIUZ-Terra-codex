@@ -327,7 +327,7 @@
 **DID:** aiuz:did:aiuz:stakeholder:abdukarimov\_aaahash1234567890
 
 **Terra Compliance Check:**\
-✅ Child Safety: Шаблоны обеспечивают защиту детей\
+✅ Child Safety: Шаблоны обеспечивают защR&D центра детей\
 ✅ Vendor Independence: Полная независимость форматов\
 ✅ Cultural Sensitivity: Культурная адаптация встроена\
 ✅ Ethical AI: Этичные принципы в каждом шаблоне
