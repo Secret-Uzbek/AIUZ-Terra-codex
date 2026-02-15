@@ -56,7 +56,7 @@ partnerships:
   government:
     uzbekistan: "Ministry of Education"
     kazakhstan: "Ministry of Education and Science"
-    turkey: "Ministry of National Education"
+    turkey="REDACTED_BY_FMP_GUARD"
     
   educational:
     universities: ["Tashkent State University", "Nazarbayev University"]
@@ -290,7 +290,7 @@ data_collection:
 
 ***
 
-## X. ЗАКЛЮЧЕНИЕ
+## X. изоляцИЕ
 
 Данный архив представляет собой **критическую фиксацию 6 часов 32 минут интенсивной работы** по созданию комплексной образовательной экосистемы AIUZ-Terra.
 
