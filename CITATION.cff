@@ -1,20 +1,26 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-type: software
-title: "AIUZ-Terra-codex"
+message: "If you use AIUZ Terra Codex in your research, please cite it as below."
+
+title: "AIUZ Terra Codex: Complete ecosystem archive"
+abstract: "A sovereign, ethics-first educational ecosystem built on the Fractal Metascience Paradigm (FMP)."
+
 authors:
-  - family-names: Abdukarimov
-    given-names: Abdurashid
+  - family-names: "Abdukarimov"
+    given-names: "Abdurashid"
     orcid: "https://orcid.org/0009-0000-6394-4912"
-    affiliation: "Fractal Metascience Foundation, Tashkent"
+    affiliation: "Fractal Metascience Foundation, Tashkent, Uzbekistan"
+    email: "a.abdukarimov@fractal-metascience.org"
+
 repository-code: "https://github.com/Secret-Uzbek/AIUZ-Terra-codex"
-abstract: "Complete ecosystem archive: Education, Solar EV, DAO, Knowledge Tokenization."
-keywords:
-  - fractal-metascience
-  - fmp
-  - uzbekistan
-  - open-science
-license: CC0-1.0
-date-released: "2026-03-03"
+doi: "10.5281/zenodo.18860222"
+license: "CC0-1.0"
 version: "1.0.0"
-doi: "10.5281/zenodo.17452566"
+date-released: "2026-03-11"
+
+keywords:
+  - "fractal metascience"
+  - "multilingual AI"
+  - "AI ethics"
+  - "digital humanities"
+  - "Uzbekistan"
+  - "open education"
