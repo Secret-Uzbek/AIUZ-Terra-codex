@@ -1,19 +1,70 @@
 # 🌐 AIUZ TERRA CODEX
+> Complete ecosystem archive: Education • Solar EV • DAO • Knowledge Tokenization
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6394-4912-green)](https://orcid.org/0009-0000-6394-4912)
-[![License](https://img.shields.io/badge/License-Open%20Source-lightgrey)](#)
-[![Live Site](https://img.shields.io/badge/Live-GitHub%20Pages-blue)](https://Secret-Uzbek.github.io/AIUZ-Terra-codex)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-a6ce39.svg)](https://orcid.org/0009-0000-6394-4912)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18860222.svg)](https://doi.org/10.5281/zenodo.18860222)
 
-> **Repository:** AIUZ-Terra-codex  
-> Part of the **Fractal Metascience Paradigm (FMP)** ecosystem.
+**Part of the [Fractal Metascience Paradigm (FMP)](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) ecosystem.**
 
-## 👤 Author
-**Abdurashid Abdukarimov**  
-- ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)
-- Location: Tashkent, Uzbekistan
-- Foundation: Fractal Metascience Foundation
+## 🗂️ Оглавление
+1. [О проекте](#-о-проекте)
+2. [Архитектура](#-архитектура)
+3. [Модули](#-модули)
+4. [Быстрый старт](#-быстрый-старт)
+5. [Цитирование](#-цитирование)
+6. [Лицензия](#-лицензия)
 
-## 🔗 Links
-- [FMP Central Hub](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
-- [Full Ecosystem Map](https://Secret-Uzbek.github.io/FMP-CENTRAL-REPO/repository.html)
+## 🌍 О проекте
+**AIUZ Terra Codex** — суверенная образовательная экосистема на базе FMP.
+
+| Компонент | Описание | Статус |
+|-----------|----------|--------|
+| 🧬 TerraMemoryDNA | Контекстная память с семантическим сжатием | ✅ v4.5 |
+| 🎓 AI Education Module | Персонализированное обучение (0-18+) | 🔄 В разработке |
+| 🏛️ DAO Governance | Репутационное управление (БЕЗ токенов) | ✅ Spec v1.0 |
+| 🔐 Child Safety First | Этическое вето на все решения | ✅ Принудительно |
+
+## 🏗️ Архитектура
+```mermaid
+graph TD
+    A[FMP Central] --> B[AIUZ Terra Codex]
+    B --> C[L0.5: Core]
+    B --> D[L1: Education]
+    B --> E[L2: Platform]
+    B --> F[L3: DAO]
+    B --> G[L4: Security]
+```
+
+## 📦 Модули
+| Файл | Описание |
+|------|----------|
+| [1.system-core.md](./1.system-core.md) | Ядро: TerraQuark, NanoCore, MicroCore |
+| [2.learning-knowledge.md](./2.learning-knowledge.md) | Образовательный модуль |
+| [3.user-interfaces.md](./3.user-interfaces.md) | Интерфейсы: мультиязычные, безопасные |
+| [4.dao-governance.md](./4.dao-governance.md) | DAO на репутации: без токенов |
+| [5.knowledge-tokenization.md](./5.knowledge-tokenization.md) | Токенизация знаний |
+| [6.global-knowledge-db.md](./6.global-knowledge-db.md) | Глобальная БД знаний |
+
+## 🚀 Быстрый старт
+```bash
+git clone https://github.com/Secret-Uzbek/AIUZ-Terra-codex.git
+cd AIUZ-Terra-codex
+python3 -m http.server 8000
+```
+
+## 📜 Цитирование
+```bibtex
+@software{abdukarimov_aiuz_terra_codex_2026,
+  author = {Abdukarimov, Abdurashid},
+  title = {{AIUZ Terra Codex}},
+  year = {2026},
+  doi = {10.5281/zenodo.18860222},
+  license = {CC0-1.0}
+}
+```
+
+## ⚖️ Лицензия
+**CC0 1.0 Universal** — общественное достояние.
+
+📧 a.abdukarimov@fractal-metascience.org | 📍 Tashkent, Uzbekistan 🇺🇿
