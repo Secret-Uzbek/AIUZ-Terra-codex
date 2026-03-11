@@ -1,0 +1,32 @@
+name: Auto-fix contacts and formatting
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # позволяет запустить вручную
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Run fixes
+        run: |
+          # Замена email
+          find . -type f \( -name "*.md" -o -name "*.txt" -o -name "*.py" -o -name "*.jsx" -o -name "*.html" -o -name "*.yaml" -o -name "*.yml" -o -name "*.json" -o -name "*.cff" \) -exec sed -i 's/[a-zA-Z0-9._%+-]\+@[a-zA-Z0-9.-]\+\.[a-zA-Z]\{2,\}/a.abdukarimov@fractal-metascience.org/g' {} \;
+          
+          # Замена ORCID
+          find . -type f \( -name "*.md" -o -name "*.txt" -o -name "*.py" -o -name "*.jsx" -o -name "*.html" -o -name "*.yaml" -o -name "*.yml" -o -name "*.json" -o -name "*.cff" \) -exec sed -i 's/[0-9]\{4\}-[0-9]\{4\}-[0-9]\{4\}-[0-9]\{3\}[0-9X]/0009-0000-6394-4912/g' {} \;
+          
+          # Добавление блока контактов, если отсутствует
+          find . -type f -name "*.md" -exec awk 'BEGIN{block="\n---\n**Contact:** a.abdukarimov@fractal-metascience.org  \n**ORCID:** 0009-0000-6394-4912\n"} !/---\\n\\*\\*Contact:/{if(NR==1 && FNR==1) {print; next} if(!found) {print $0} else {print}} /---\\n\\*\\*Contact:/{found=1} END{if(!found) print block}' {} \; > tmp && mv tmp {} \;
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-fix: normalize contacts and formatting"
+          git push
