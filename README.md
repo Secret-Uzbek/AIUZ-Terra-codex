@@ -1,5 +1,5 @@
-# ð AIUZ TERRA CODEX
-> Complete ecosystem archive: Education â¢ Solar EV â¢ DAO â¢ Knowledge Tokenization
+# рџЊђ AIUZ TERRA CODEX
+> Complete ecosystem archive: Education вЂў Solar EV вЂў DAO вЂў Knowledge Tokenization
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-a6ce39.svg)](https://orcid.org/0009-0000-6394-4912)
@@ -7,25 +7,25 @@
 
 **Part of the [Fractal Metascience Paradigm (FMP)](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) ecosystem.**
 
-## ðï¸ ÐÐ³Ð»Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ
-1. [Ð Ð¿ÑÐ¾ÐµÐºÑÐµ](#-Ð¾-Ð¿ÑÐ¾ÐµÐºÑÐµ)
-2. [ÐÑÑÐ¸ÑÐµÐºÑÑÑÐ°](#-Ð°ÑÑÐ¸ÑÐµÐºÑÑÑÐ°)
-3. [ÐÐ¾Ð´ÑÐ»Ð¸](#-Ð¼Ð¾Ð´ÑÐ»Ð¸)
-4. [ÐÑÑÑÑÑÐ¹ ÑÑÐ°ÑÑ](#-Ð±ÑÑÑÑÑÐ¹-ÑÑÐ°ÑÑ)
-5. [Ð¦Ð¸ÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ](#-ÑÐ¸ÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ)
-6. [ÐÐ¸ÑÐµÐ½Ð·Ð¸Ñ](#-Ð»Ð¸ÑÐµÐ½Ð·Ð¸Ñ)
+## рџ—‚пёЏ РћРіР»Р°РІР»РµРЅРёРµ
+1. [Рћ РїСЂРѕРµРєС‚Рµ](#-Рѕ-РїСЂРѕРµРєС‚Рµ)
+2. [РђСЂС…РёС‚РµРєС‚СѓСЂР°](#-Р°СЂС…РёС‚РµРєС‚СѓСЂР°)
+3. [РњРѕРґСѓР»Рё](#-РјРѕРґСѓР»Рё)
+4. [Р‘С‹СЃС‚СЂС‹Р№ СЃС‚Р°СЂС‚](#-Р±С‹СЃС‚СЂС‹Р№-СЃС‚Р°СЂС‚)
+5. [Р¦РёС‚РёСЂРѕРІР°РЅРёРµ](#-С†РёС‚РёСЂРѕРІР°РЅРёРµ)
+6. [Р›РёС†РµРЅР·РёСЏ](#-Р»РёС†РµРЅР·РёСЏ)
 
-## ð Ð Ð¿ÑÐ¾ÐµÐºÑÐµ
-**AIUZ Terra Codex** â ÑÑÐ²ÐµÑÐµÐ½Ð½Ð°Ñ Ð¾Ð±ÑÐ°Ð·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ½Ð°Ñ ÑÐºÐ¾ÑÐ¸ÑÑÐµÐ¼Ð° Ð½Ð° Ð±Ð°Ð·Ðµ FMP.
+## рџЊЌ Рћ РїСЂРѕРµРєС‚Рµ
+**AIUZ Terra Codex** вЂ” СЃСѓРІРµСЂРµРЅРЅР°СЏ РѕР±СЂР°Р·РѕРІР°С‚РµР»СЊРЅР°СЏ СЌРєРѕСЃРёСЃС‚РµРјР° РЅР° Р±Р°Р·Рµ FMP.
 
-| ÐÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ | ÐÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ | Ð¡ÑÐ°ÑÑÑ |
+| РљРѕРјРїРѕРЅРµРЅС‚ | РћРїРёСЃР°РЅРёРµ | РЎС‚Р°С‚СѓСЃ |
 |-----------|----------|--------|
-| ð§¬ TerraMemoryDNA | ÐÐ¾Ð½ÑÐµÐºÑÑÐ½Ð°Ñ Ð¿Ð°Ð¼ÑÑÑ Ñ ÑÐµÐ¼Ð°Ð½ÑÐ¸ÑÐµÑÐºÐ¸Ð¼ ÑÐ¶Ð°ÑÐ¸ÐµÐ¼ | â v4.5 |
-| ð AI Education Module | ÐÐµÑÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð¸ÑÐ¾Ð²Ð°Ð½Ð½Ð¾Ðµ Ð¾Ð±ÑÑÐµÐ½Ð¸Ðµ (0-18+) | ð Ð ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐºÐµ |
-| ðï¸ DAO Governance | Ð ÐµÐ¿ÑÑÐ°ÑÐ¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ðµ (ÐÐÐ ÑÐ¾ÐºÐµÐ½Ð¾Ð²) | â Spec v1.0 |
-| ð Child Safety First | Ð­ÑÐ¸ÑÐµÑÐºÐ¾Ðµ Ð²ÐµÑÐ¾ Ð½Ð° Ð²ÑÐµ ÑÐµÑÐµÐ½Ð¸Ñ | â ÐÑÐ¸Ð½ÑÐ´Ð¸ÑÐµÐ»ÑÐ½Ð¾ |
+| рџ§¬ TerraMemoryDNA | РљРѕРЅС‚РµРєСЃС‚РЅР°СЏ РїР°РјСЏС‚СЊ СЃ СЃРµРјР°РЅС‚РёС‡РµСЃРєРёРј СЃР¶Р°С‚РёРµРј | вњ… v4.5 |
+| рџЋ“ AI Education Module | РџРµСЂСЃРѕРЅР°Р»РёР·РёСЂРѕРІР°РЅРЅРѕРµ РѕР±СѓС‡РµРЅРёРµ (0-18+) | рџ”„ Р’ СЂР°Р·СЂР°Р±РѕС‚РєРµ |
+| рџЏ›пёЏ DAO Governance | Р РµРїСѓС‚Р°С†РёРѕРЅРЅРѕРµ СѓРїСЂР°РІР»РµРЅРёРµ (Р‘Р•Р— С‚РѕРєРµРЅРѕРІ) | вњ… Spec v1.0 |
+| рџ”ђ Child Safety First | Р­С‚РёС‡РµСЃРєРѕРµ РІРµС‚Рѕ РЅР° РІСЃРµ СЂРµС€РµРЅРёСЏ | вњ… РџСЂРёРЅСѓРґРёС‚РµР»СЊРЅРѕ |
 
-## ðï¸ ÐÑÑÐ¸ÑÐµÐºÑÑÑÐ°
+## рџЏ—пёЏ РђСЂС…РёС‚РµРєС‚СѓСЂР°
 ```mermaid
 graph TD
     A[FMP Central] --> B[AIUZ Terra Codex]
@@ -36,24 +36,24 @@ graph TD
     B --> G[L4: Security]
 ```
 
-## ð¦ ÐÐ¾Ð´ÑÐ»Ð¸
-| Ð¤Ð°Ð¹Ð» | ÐÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ |
+## рџ“¦ РњРѕРґСѓР»Рё
+| Р¤Р°Р№Р» | РћРїРёСЃР°РЅРёРµ |
 |------|----------|
-| [1.system-core.md](./1.system-core.md) | Ð¯Ð´ÑÐ¾: TerraQuark, NanoCore, MicroCore |
-| [2.learning-knowledge.md](./2.learning-knowledge.md) | ÐÐ±ÑÐ°Ð·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ½ÑÐ¹ Ð¼Ð¾Ð´ÑÐ»Ñ |
-| [3.user-interfaces.md](./3.user-interfaces.md) | ÐÐ½ÑÐµÑÑÐµÐ¹ÑÑ: Ð¼ÑÐ»ÑÑÐ¸ÑÐ·ÑÑÐ½ÑÐµ, Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½ÑÐµ |
-| [4.dao-governance.md](./4.dao-governance.md) | DAO Ð½Ð° ÑÐµÐ¿ÑÑÐ°ÑÐ¸Ð¸: Ð±ÐµÐ· ÑÐ¾ÐºÐµÐ½Ð¾Ð² |
-| [5.knowledge-tokenization.md](./5.knowledge-tokenization.md) | Ð¢Ð¾ÐºÐµÐ½Ð¸Ð·Ð°ÑÐ¸Ñ Ð·Ð½Ð°Ð½Ð¸Ð¹ |
-| [6.global-knowledge-db.md](./6.global-knowledge-db.md) | ÐÐ»Ð¾Ð±Ð°Ð»ÑÐ½Ð°Ñ ÐÐ Ð·Ð½Ð°Ð½Ð¸Ð¹ |
+| [1.system-core.md](./1.system-core.md) | РЇРґСЂРѕ: TerraQuark, NanoCore, MicroCore |
+| [2.learning-knowledge.md](./2.learning-knowledge.md) | РћР±СЂР°Р·РѕРІР°С‚РµР»СЊРЅС‹Р№ РјРѕРґСѓР»СЊ |
+| [3.user-interfaces.md](./3.user-interfaces.md) | Р�РЅС‚РµСЂС„РµР№СЃС‹: РјСѓР»СЊС‚РёСЏР·С‹С‡РЅС‹Рµ, Р±РµР·РѕРїР°СЃРЅС‹Рµ |
+| [4.dao-governance.md](./4.dao-governance.md) | DAO РЅР° СЂРµРїСѓС‚Р°С†РёРё: Р±РµР· С‚РѕРєРµРЅРѕРІ |
+| [5.knowledge-tokenization.md](./5.knowledge-tokenization.md) | РўРѕРєРµРЅРёР·Р°С†РёСЏ Р·РЅР°РЅРёР№ |
+| [6.global-knowledge-db.md](./6.global-knowledge-db.md) | Р“Р»РѕР±Р°Р»СЊРЅР°СЏ Р‘Р” Р·РЅР°РЅРёР№ |
 
-## ð ÐÑÑÑÑÑÐ¹ ÑÑÐ°ÑÑ
+## рџљЂ Р‘С‹СЃС‚СЂС‹Р№ СЃС‚Р°СЂС‚
 ```bash
 git clone https://github.com/Secret-Uzbek/AIUZ-Terra-codex.git
 cd AIUZ-Terra-codex
 python3 -m http.server 8000
 ```
 
-## ð Ð¦Ð¸ÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ
+## рџ“њ Р¦РёС‚РёСЂРѕРІР°РЅРёРµ
 ```bibtex
 @software{abdukarimov_aiuz_terra_codex_2026,
   author = {Abdukarimov, Abdurashid},
@@ -64,13 +64,13 @@ python3 -m http.server 8000
 }
 ```
 
-## âï¸ ÐÐ¸ÑÐµÐ½Ð·Ð¸Ñ
-**CC0 1.0 Universal** â Ð¾Ð±ÑÐµÑÑÐ²ÐµÐ½Ð½Ð¾Ðµ Ð´Ð¾ÑÑÐ¾ÑÐ½Ð¸Ðµ.
+## вљ–пёЏ Р›РёС†РµРЅР·РёСЏ
+**CC0 1.0 Universal** вЂ” РѕР±С‰РµСЃС‚РІРµРЅРЅРѕРµ РґРѕСЃС‚РѕСЏРЅРёРµ.
 
-ð§ a.abdukarimov@fractal-metascience.org | ð Tashkent, Uzbekistan ðºð¿
+рџ“§ a.abdukarimov@fractal-metascience.org | рџ“Ќ Tashkent, Uzbekistan рџ‡єрџ‡ї
 
 ---
-## 🌍 FMP Ecosystem Links
+## ? FMP Ecosystem Links
 | Repo | Layer | Role |
 |---|---|---|
 | [FMP-CENTRAL-REPO](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) | L7 | Core Hub |
