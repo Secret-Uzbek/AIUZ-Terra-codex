@@ -1,4 +1,4 @@
-# 🛠️ AIUZ TERRA OS v3.0 - TEXNIK HUJJATLAR
+# рџ› пёЏ AIUZ TERRA OS v3.0 - TEXNIK HUJJATLAR
 
 **Versiya:** Complete Integration v3.0\
 **Sana:** 18 iyul 2025\
@@ -7,48 +7,48 @@
 
 ***
 
-## 🎯 IJROCHI XULOSA
+## рџЋЇ IJROCHI XULOSA
 
 AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va bilim iqtisodiyoti bilan inqilobiy operatsion tizim. Tizim sanoat joylashtirishiga tayyor.
 
 ***
 
-## 🏗️ TIZIM ARXITEKTURASI
+## рџЏ—пёЏ TIZIM ARXITEKTURASI
 
 ### Ko'p qatlamli arxitektura (6 qatlam)
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    TERRA OS CORE                            │
-│                 (Asosiy integratsiya)                      │
-├─────────────────────────────────────────────────────────────┤
-│ L4: INTERFEYS QATLAMI                                      │
-│     • Bilim iqtisodiyoti • Tokenizatsiya • Reputatsiya    │
-├─────────────────────────────────────────────────────────────┤
-│ L3: BOSHQARUV QATLAMI                                      │
-│     • AI Engine • Kontent generatsiya • Tavsiyalar        │
-├─────────────────────────────────────────────────────────────┤
-│ L2: INFRATUZILMA QATLAMI                                   │
-│     • Moslashuvchan interfeyslari • 8 turdagi qurilmalar   │
-├─────────────────────────────────────────────────────────────┤
-│ L1: PROTOKOL QATLAMI                                       │
-│     • ML modellari • Axloqiy validatsiya • Semantika      │
-├─────────────────────────────────────────────────────────────┤
-│ L0.5: TERRA MICROCORE                                      │
-│     • Semantik yadro • Tamoyillar avto-in'ektsiyasi       │
-├─────────────────────────────────────────────────────────────┤
-│ L0: FALSAFIY ASOS                                          │
-│     • 5 Terra tamoyili • Universal qadriyatlar            │
-└─────────────────────────────────────────────────────────────┘
+в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
+в”‚                    TERRA OS CORE                            в”‚
+в”‚                 (Asosiy integratsiya)                      в”‚
+в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
+в”‚ L4: INTERFEYS QATLAMI                                      в”‚
+в”‚     вЂў Bilim iqtisodiyoti вЂў Tokenizatsiya вЂў Reputatsiya    в”‚
+в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
+в”‚ L3: BOSHQARUV QATLAMI                                      в”‚
+в”‚     вЂў AI Engine вЂў Kontent generatsiya вЂў Tavsiyalar        в”‚
+в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
+в”‚ L2: INFRATUZILMA QATLAMI                                   в”‚
+в”‚     вЂў Moslashuvchan interfeyslari вЂў 8 turdagi qurilmalar   в”‚
+в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
+в”‚ L1: PROTOKOL QATLAMI                                       в”‚
+в”‚     вЂў ML modellari вЂў Axloqiy validatsiya вЂў Semantika      в”‚
+в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
+в”‚ L0.5: TERRA MICROCORE                                      в”‚
+в”‚     вЂў Semantik yadro вЂў Tamoyillar avto-in'ektsiyasi       в”‚
+в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
+в”‚ L0: FALSAFIY ASOS                                          в”‚
+в”‚     вЂў 5 Terra tamoyili вЂў Universal qadriyatlar            в”‚
+в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
 ```
 
 ***
 
-## 📋 TIZIM KOMPONENTLARI
+## рџ“‹ TIZIM KOMPONENTLARI
 
 ### L0: Falsafiy asos
 
-#### 🎯 CodexTerraPhilosophy
+#### рџЋЇ CodexTerraPhilosophy
 
 **Maqsad:** Tizimning asosiy axloqiy tamoyillari va qadriyatlari
 
@@ -67,7 +67,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L0.5: Terra MicroCore
 
-#### 🧠 TerraMicroCoreAdvanced
+#### рџ§  TerraMicroCoreAdvanced
 
 **Maqsad:** Kontentga Terra tamoyillarini avtomatik in'ektsiya qilish
 
@@ -79,7 +79,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L1: Protokol qatlami
 
-#### 🔍 SemanticCoreAdvanced
+#### рџ”Ќ SemanticCoreAdvanced
 
 **Maqsad:** Axloqiy validatsiya bilan foydalanuvchi so'rovlarini qayta ishlash
 
@@ -98,7 +98,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L2: Infratuzilma qatlami
 
-#### 🖥️ AdaptiveInterfaceAdvanced
+#### рџ–ҐпёЏ AdaptiveInterfaceAdvanced
 
 **Maqsad:** Interfeyesni foydalanuvchi va qurilmaga moslashtirish
 
@@ -116,7 +116,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L3: Boshqaruv qatlami
 
-#### 🤖 AIEngineAdvanced
+#### рџ¤– AIEngineAdvanced
 
 **Maqsad:** Terra tamoyillari bilan kontent va tavsiyalar generatsiyasi
 
@@ -132,7 +132,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L4: Interfeys qatlami
 
-#### 💰 KnowledgeEconomyAdvanced
+#### рџ’° KnowledgeEconomyAdvanced
 
 **Maqsad:** Bilim iqtisodiyoti va hissalarni tokenizatsiya
 
@@ -150,7 +150,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### TERRA OS: Asosiy integratsiya
 
-#### 🌟 TerraOS Core
+#### рџЊџ TerraOS Core
 
 **Maqsad:** Butun tizimni boshqarish uchun markaziy sinf
 
@@ -170,7 +170,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ***
 
-## 🔧 TEXNIK TALABLAR
+## рџ”§ TEXNIK TALABLAR
 
 ### Tizim talablari
 
@@ -207,7 +207,7 @@ TOKEN_EMISSION_LIMITS = {
 
 ***
 
-## 📊 MONITORING VA METRIKLAR
+## рџ“Љ MONITORING VA METRIKLAR
 
 ### Tizim metrikalari
 
@@ -224,7 +224,7 @@ TOKEN_EMISSION_LIMITS = {
 
 ***
 
-## 🛡️ XAVFSIZLIK
+## рџ›ЎпёЏ XAVFSIZLIK
 
 ### Axloqiy validatsiya
 
@@ -240,7 +240,7 @@ TOKEN_EMISSION_LIMITS = {
 
 ***
 
-## 📈 RIVOJLANISH ROADMAP
+## рџ“€ RIVOJLANISH ROADMAP
 
 ### Versiya 3.1 (Q3 2025)
 
@@ -262,10 +262,10 @@ TOKEN_EMISSION_LIMITS = {
 
 ***
 
-## 📄 LITSENZIYA
+## рџ“„ LITSENZIYA
 
 **Xususiy litsenziya**\
-© 2025 AIUZ Terra OS Project\
+В© 2025 AIUZ Terra OS Project\
 Barcha huquqlar himoyalangan.
 
 **Muallif:** <a.abdukarimov@fractal-metascience.org>\
