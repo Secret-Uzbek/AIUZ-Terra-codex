@@ -1,5 +1,5 @@
-# ð AIUZ TERRA CODEX
-> Complete ecosystem archive: Education â¢ Solar EV â¢ DAO â¢ Knowledge Tokenization
+# 🌐 AIUZ TERRA CODEX
+> Complete ecosystem archive: Education • Solar EV • DAO • Knowledge Tokenization
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-a6ce39.svg)](https://orcid.org/0009-0000-6394-4912)
@@ -7,25 +7,25 @@
 
 **Part of the [Fractal Metascience Paradigm (FMP)](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) ecosystem.**
 
-## ðï¸ ÐÐ³Ð»Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ
-1. [Ð Ð¿ÑÐ¾ÐµÐºÑÐµ](#-Ð¾-Ð¿ÑÐ¾ÐµÐºÑÐµ)
-2. [ÐÑÑÐ¸ÑÐµÐºÑÑÑÐ°](#-Ð°ÑÑÐ¸ÑÐµÐºÑÑÑÐ°)
-3. [ÐÐ¾Ð´ÑÐ»Ð¸](#-Ð¼Ð¾Ð´ÑÐ»Ð¸)
-4. [ÐÑÑÑÑÑÐ¹ ÑÑÐ°ÑÑ](#-Ð±ÑÑÑÑÑÐ¹-ÑÑÐ°ÑÑ)
-5. [Ð¦Ð¸ÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ](#-ÑÐ¸ÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ)
-6. [ÐÐ¸ÑÐµÐ½Ð·Ð¸Ñ](#-Ð»Ð¸ÑÐµÐ½Ð·Ð¸Ñ)
+## 🗂️ Оглавление
+1. [О проекте](#-о-проекте)
+2. [Архитектура](#-архитектура)
+3. [Модули](#-модули)
+4. [Быстрый старт](#-быстрый-старт)
+5. [Цитирование](#-цитирование)
+6. [Лицензия](#-лицензия)
 
-## ð Ð Ð¿ÑÐ¾ÐµÐºÑÐµ
-**AIUZ Terra Codex** â ÑÑÐ²ÐµÑÐµÐ½Ð½Ð°Ñ Ð¾Ð±ÑÐ°Ð·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ½Ð°Ñ ÑÐºÐ¾ÑÐ¸ÑÑÐµÐ¼Ð° Ð½Ð° Ð±Ð°Ð·Ðµ FMP.
+## 🌍 О проекте
+**AIUZ Terra Codex** — суверенная образовательная экосистема на базе FMP.
 
-| ÐÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ | ÐÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ | Ð¡ÑÐ°ÑÑÑ |
+| Компонент | Описание | Статус |
 |-----------|----------|--------|
-| ð§¬ TerraMemoryDNA | ÐÐ¾Ð½ÑÐµÐºÑÑÐ½Ð°Ñ Ð¿Ð°Ð¼ÑÑÑ Ñ ÑÐµÐ¼Ð°Ð½ÑÐ¸ÑÐµÑÐºÐ¸Ð¼ ÑÐ¶Ð°ÑÐ¸ÐµÐ¼ | â v4.5 |
-| ð AI Education Module | ÐÐµÑÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð¸ÑÐ¾Ð²Ð°Ð½Ð½Ð¾Ðµ Ð¾Ð±ÑÑÐµÐ½Ð¸Ðµ (0-18+) | ð Ð ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐºÐµ |
-| ðï¸ DAO Governance | Ð ÐµÐ¿ÑÑÐ°ÑÐ¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ðµ (ÐÐÐ ÑÐ¾ÐºÐµÐ½Ð¾Ð²) | â Spec v1.0 |
-| ð Child Safety First | Ð­ÑÐ¸ÑÐµÑÐºÐ¾Ðµ Ð²ÐµÑÐ¾ Ð½Ð° Ð²ÑÐµ ÑÐµÑÐµÐ½Ð¸Ñ | â ÐÑÐ¸Ð½ÑÐ´Ð¸ÑÐµÐ»ÑÐ½Ð¾ |
+| 🧬 TerraMemoryDNA | Контекстная память с семантическим сжатием | ✅ v4.5 |
+| 🎓 AI Education Module | Персонализированное обучение (0-18+) | 🔄 В разработке |
+| 🏛️ DAO Governance | Репутационное управление (БЕЗ токенов) | ✅ Spec v1.0 |
+| 🔐 Child Safety First | Этическое вето на все решения | ✅ Принудительно |
 
-## ðï¸ ÐÑÑÐ¸ÑÐµÐºÑÑÑÐ°
+## 🏗️ Архитектура
 ```mermaid
 graph TD
     A[FMP Central] --> B[AIUZ Terra Codex]
@@ -36,24 +36,24 @@ graph TD
     B --> G[L4: Security]
 ```
 
-## ð¦ ÐÐ¾Ð´ÑÐ»Ð¸
-| Ð¤Ð°Ð¹Ð» | ÐÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ |
+## 📦 Модули
+| Файл | Описание |
 |------|----------|
-| [1.system-core.md](./1.system-core.md) | Ð¯Ð´ÑÐ¾: TerraQuark, NanoCore, MicroCore |
-| [2.learning-knowledge.md](./2.learning-knowledge.md) | ÐÐ±ÑÐ°Ð·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ½ÑÐ¹ Ð¼Ð¾Ð´ÑÐ»Ñ |
-| [3.user-interfaces.md](./3.user-interfaces.md) | ÐÐ½ÑÐµÑÑÐµÐ¹ÑÑ: Ð¼ÑÐ»ÑÑÐ¸ÑÐ·ÑÑÐ½ÑÐµ, Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½ÑÐµ |
-| [4.dao-governance.md](./4.dao-governance.md) | DAO Ð½Ð° ÑÐµÐ¿ÑÑÐ°ÑÐ¸Ð¸: Ð±ÐµÐ· ÑÐ¾ÐºÐµÐ½Ð¾Ð² |
-| [5.knowledge-tokenization.md](./5.knowledge-tokenization.md) | Ð¢Ð¾ÐºÐµÐ½Ð¸Ð·Ð°ÑÐ¸Ñ Ð·Ð½Ð°Ð½Ð¸Ð¹ |
-| [6.global-knowledge-db.md](./6.global-knowledge-db.md) | ÐÐ»Ð¾Ð±Ð°Ð»ÑÐ½Ð°Ñ ÐÐ Ð·Ð½Ð°Ð½Ð¸Ð¹ |
+| [1.system-core.md](./1.system-core.md) | Ядро: TerraQuark, NanoCore, MicroCore |
+| [2.learning-knowledge.md](./2.learning-knowledge.md) | Образовательный модуль |
+| [3.user-interfaces.md](./3.user-interfaces.md) | Интерфейсы: мультиязычные, безопасные |
+| [4.dao-governance.md](./4.dao-governance.md) | DAO на репутации: без токенов |
+| [5.knowledge-tokenization.md](./5.knowledge-tokenization.md) | Токенизация знаний |
+| [6.global-knowledge-db.md](./6.global-knowledge-db.md) | Глобальная БД знаний |
 
-## ð ÐÑÑÑÑÑÐ¹ ÑÑÐ°ÑÑ
+## 🚀 Быстрый старт
 ```bash
 git clone https://github.com/Secret-Uzbek/AIUZ-Terra-codex.git
 cd AIUZ-Terra-codex
 python3 -m http.server 8000
 ```
 
-## ð Ð¦Ð¸ÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ
+## 📜 Цитирование
 ```bibtex
 @software{abdukarimov_aiuz_terra_codex_2026,
   author = {Abdukarimov, Abdurashid},
@@ -64,10 +64,10 @@ python3 -m http.server 8000
 }
 ```
 
-## âï¸ ÐÐ¸ÑÐµÐ½Ð·Ð¸Ñ
-**CC0 1.0 Universal** â Ð¾Ð±ÑÐµÑÑÐ²ÐµÐ½Ð½Ð¾Ðµ Ð´Ð¾ÑÑÐ¾ÑÐ½Ð¸Ðµ.
+## ⚖️ Лицензия
+**CC0 1.0 Universal** — общественное достояние.
 
-ð§ a.abdukarimov@fractal-metascience.org | ð Tashkent, Uzbekistan ðºð¿
+📧 a.abdukarimov@fractal-metascience.org | 📍 Tashkent, Uzbekistan 🇺🇿
 
 ---
 ## 🌍 FMP Ecosystem Links
