@@ -1,7 +1,26 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone...
+This repository is part of the AIUZ Terra Codex ecosystem.
 
-## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at a.a.abdukarimov@tutamail.com.
+## Expected behavior
+
+Contributors are expected to:
+
+- work respectfully;
+- repair meaning and structure before multiplying files;
+- avoid repository noise and false completeness;
+- preserve ethical and child-safe boundaries in public-facing material.
+
+## Unacceptable behavior
+
+The following is not acceptable:
+
+- harassment or intimidation;
+- deliberate repository vandalism;
+- publishing broken service files as if they were finished;
+- exposing sensitive security details in public.
+
+## Reporting
+
+Use the maintainer contact routes already published across the repository and
+Terra ecosystem.

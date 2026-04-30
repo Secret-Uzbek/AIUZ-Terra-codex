@@ -1,8 +1,32 @@
 # Security Policy
 
-## Supported Versions
-Use this section to tell people about which versions of your project are currently being supported with security updates.
+## Scope
 
-## Reporting a Vulnerability
-Please report security issues to **a.a.abdukarimov@tutamail.com**.
-Do not open public issues for security vulnerabilities.
+This repository is a mixed practice, documentation, and publication-facing
+surface of AIUZ Terra Codex.
+
+Security concerns here include:
+
+- leaked credentials or tokens;
+- unsafe workflows and release automation;
+- accidental publication of personal or sensitive data;
+- integrity damage to citation, release, or repository metadata.
+
+## Supported branch
+
+- `main`
+
+## Reporting
+
+Do not open public exploit trails for sensitive problems.
+
+Report privately to:
+
+- `a.abdukarimov@fractal-metascience.org`
+
+Include:
+
+- affected file or workflow;
+- short description;
+- steps to reproduce if relevant;
+- whether publication or repository integrity is affected.
