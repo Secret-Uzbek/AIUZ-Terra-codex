@@ -1,81 +1,79 @@
-# 🌐 AIUZ TERRA CODEX
-> Complete ecosystem archive: Education • Solar EV • DAO • Knowledge Tokenization
+# AIUZ Terra Codex
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-a6ce39.svg)](https://orcid.org/0009-0000-6394-4912)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18860222.svg)](https://doi.org/10.5281/zenodo.18860222)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-a6ce39.svg)](https://orcid.org/0009-0000-6394-4912)
+[![Layer](https://img.shields.io/badge/Layer-Practice-16a34a)](https://github.com/Secret-Uzbek/AIUZ-Terra-codex)
+[![Release](https://img.shields.io/github/v/release/Secret-Uzbek/AIUZ-Terra-codex?display_name=tag)](https://github.com/Secret-Uzbek/AIUZ-Terra-codex/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/Secret-Uzbek/AIUZ-Terra-codex)](https://github.com/Secret-Uzbek/AIUZ-Terra-codex/commits/main)
+[![Release Pipeline](https://github.com/Secret-Uzbek/AIUZ-Terra-codex/actions/workflows/release-and-publish.yml/badge.svg)](https://github.com/Secret-Uzbek/AIUZ-Terra-codex/actions/workflows/release-and-publish.yml)
+[![Zenodo Sync](https://github.com/Secret-Uzbek/AIUZ-Terra-codex/actions/workflows/zenodo-release.yml/badge.svg)](https://github.com/Secret-Uzbek/AIUZ-Terra-codex/actions/workflows/zenodo-release.yml)
+[![Terra Audit](https://github.com/Secret-Uzbek/AIUZ-Terra-codex/actions/workflows/terra-audit.yml/badge.svg)](https://github.com/Secret-Uzbek/AIUZ-Terra-codex/actions/workflows/terra-audit.yml)
+[![Central Hub](https://img.shields.io/badge/Central-FMP--CENTRAL--REPO-blue)](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
+[![Legal](https://img.shields.io/badge/Legal-terra--legal-0f6b57)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
 
-**Part of the [Fractal Metascience Paradigm (FMP)](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) ecosystem.**
+> Practice and implementation layer of the AIUZ Terra ecosystem: architecture,
+> modules, educational platform logic, DAO structures, and applied system
+> design.
 
-## 🗂️ Оглавление
-1. [О проекте](#-о-проекте)
-2. [Архитектура](#-архитектура)
-3. [Модули](#-модули)
-4. [Быстрый старт](#-быстрый-старт)
-5. [Цитирование](#-цитирование)
-6. [Лицензия](#-лицензия)
+## Layer role
 
-## 🌍 О проекте
-**AIUZ Terra Codex** — суверенная образовательная экосистема на базе FMP.
+This repository is the explicit practice layer of the Terra / FMP weave.
 
-| Компонент | Описание | Статус |
-|-----------|----------|--------|
-| 🧬 TerraMemoryDNA | Контекстная память с семантическим сжатием | ✅ v4.5 |
-| 🎓 AI Education Module | Персонализированное обучение (0-18+) | 🔄 В разработке |
-| 🏛️ DAO Governance | Репутационное управление (БЕЗ токенов) | ✅ Spec v1.0 |
-| 🔐 Child Safety First | Этическое вето на все решения | ✅ Принудительно |
+It should hold:
 
-## 🏗️ Архитектура
-```mermaid
-graph TD
-    A[FMP Central] --> B[AIUZ Terra Codex]
-    B --> C[L0.5: Core]
-    B --> D[L1: Education]
-    B --> E[L2: Platform]
-    B --> F[L3: DAO]
-    B --> G[L4: Security]
-```
+- architecture and implementation blueprints;
+- platform module descriptions;
+- educational and governance system designs;
+- applied documentation and implementation-facing materials.
 
-## 📦 Модули
-| Файл | Описание |
-|------|----------|
-| [1.system-core.md](./1.system-core.md) | Ядро: TerraQuark, NanoCore, MicroCore |
-| [2.learning-knowledge.md](./2.learning-knowledge.md) | Образовательный модуль |
-| [3.user-interfaces.md](./3.user-interfaces.md) | Интерфейсы: мультиязычные, безопасные |
-| [4.dao-governance.md](./4.dao-governance.md) | DAO на репутации: без токенов |
-| [5.knowledge-tokenization.md](./5.knowledge-tokenization.md) | Токенизация знаний |
-| [6.global-knowledge-db.md](./6.global-knowledge-db.md) | Глобальная БД знаний |
+It should not act like:
 
-## 🚀 Быстрый старт
-```bash
-git clone https://github.com/Secret-Uzbek/AIUZ-Terra-codex.git
-cd AIUZ-Terra-codex
-python3 -m http.server 8000
-```
+- a pure theory repository;
+- a publication package repository;
+- a donor governance repository;
+- a flat archive of every Terra artifact ever produced.
 
-## 📜 Цитирование
-```bibtex
-@software{abdukarimov_aiuz_terra_codex_2026,
-  author = {Abdukarimov, Abdurashid},
-  title = {{AIUZ Terra Codex}},
-  year = {2026},
-  doi = {10.5281/zenodo.18860222},
-  license = {CC0-1.0}
-}
-```
+## Reading path
 
-## ⚖️ Лицензия
-**CC0 1.0 Universal** — общественное достояние.
+1. `README.md`
+2. `CITATION.cff`
+3. `aiuz-terra-os-полная-интегрированная-архитектура.md`
+4. `aiuz-terra-ecosystem-полный-архив-всех-материалов.md`
+5. module files `1.system-core.md` through `6.global-knowledge-db.md`
 
-📧 a.abdukarimov@fractal-metascience.org | 📍 Tashkent, Uzbekistan 🇺🇿
+## Human-facing donor files
 
----
-## ? FMP Ecosystem Links
-| Repo | Layer | Role |
-|---|---|---|
-| [FMP-CENTRAL-REPO](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) | L7 | Core Hub |
-| [AIUZ-Terra-codex](https://github.com/Secret-Uzbek/AIUZ-Terra-codex) | L6 | Ecosystem |
-| [AIUZ-terra-codex-FMP](https://github.com/Secret-Uzbek/AIUZ-terra-codex-FMP) | L5 | Education |
-| [terra-translation-api](https://github.com/Secret-Uzbek/terra-translation-api) | L4 | PLT API |
+Large human-facing implementation donors already live here:
+
+- `aiuz-terra-os-полная-интегрированная-архитектура.md`
+- `TERRA DNA - Полный архив AIUZ-TERRA.md`
+- `TERRA DNA - Полный архив AIUZ-TERRA-1.md`
+- `aiuz-ecosystem-полная-архитектурная-карта-и-систематизация.md`
+- `aiuz-documentation-standards-v1.0.md`
+- `aiuz-one-click-restore-system-v1.0.md`
+
+## Ecosystem position
+
+- `FMP-CENTRAL-REPO` — central public hub
+- `AIUZ` — public platform-facing branch
+- `AIUZ-terra-codex-FMP` — theory/publication-facing FMP package
+- `Theory-of-fractal-metascience-paradigm` — theory layer
+- `terra-legal` — donor governance and repository standards
+
+## Layer boundaries
+
+Keep here:
+
+- implementation architecture;
+- platform modules;
+- practice-facing blueprints and donor implementation files;
+- release, DOI, and audit surfaces for this implementation branch.
+
+Do not overload this repository with:
+
+- archive dumps without implementation role;
+- donor governance rewritten from scratch;
+- publication packages that belong elsewhere;
+- machine residue as the main public entry.
 
 *Generated by Terra GitHub Helper · NULLO Protocol*
