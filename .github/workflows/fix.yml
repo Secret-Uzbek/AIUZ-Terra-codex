@@ -1,9 +1,12 @@
 name: Auto-fix contacts and formatting
 
 on:
-  push:
-    branches: [ main ]
-  workflow_dispatch:  # позволяет запустить вручную
+  workflow_dispatch:
+    inputs:
+      write_changes:
+        description: "Set to true to commit and push normalized contact fixes"
+        required: true
+        default: "false"
 
 jobs:
   fix:
@@ -24,6 +27,7 @@ jobs:
           find . -type f -name "*.md" -exec awk 'BEGIN{block="\n---\n**Contact:** a.abdukarimov@fractal-metascience.org  \n**ORCID:** 0009-0000-6394-4912\n"} !/---\\n\\*\\*Contact:/{if(NR==1 && FNR==1) {print; next} if(!found) {print $0} else {print}} /---\\n\\*\\*Contact:/{found=1} END{if(!found) print block}' {} \; > tmp && mv tmp {} \;
 
       - name: Commit changes
+        if: ${{ github.event.inputs.write_changes == 'true' }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
