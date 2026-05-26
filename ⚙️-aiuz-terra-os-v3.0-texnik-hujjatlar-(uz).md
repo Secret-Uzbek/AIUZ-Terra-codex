@@ -1,4 +1,4 @@
-# рџ› пёЏ AIUZ TERRA OS v3.0 - TEXNIK HUJJATLAR
+# ⚙️ AIUZ TERRA OS v3.0 - TEXNIK HUJJATLAR
 
 **Versiya:** Complete Integration v3.0\
 **Sana:** 18 iyul 2025\
@@ -7,48 +7,48 @@
 
 ***
 
-## рџЋЇ IJROCHI XULOSA
+## 🎯 IJROCHI XULOSA
 
 AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va bilim iqtisodiyoti bilan inqilobiy operatsion tizim. Tizim sanoat joylashtirishiga tayyor.
 
 ***
 
-## рџЏ—пёЏ TIZIM ARXITEKTURASI
+## 🏗️ TIZIM ARXITEKTURASI
 
 ### Ko'p qatlamli arxitektura (6 qatlam)
 
 ```
-в”Њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”ђ
-в”‚                    TERRA OS CORE                            в”‚
-в”‚                 (Asosiy integratsiya)                      в”‚
-в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
-в”‚ L4: INTERFEYS QATLAMI                                      в”‚
-в”‚     вЂў Bilim iqtisodiyoti вЂў Tokenizatsiya вЂў Reputatsiya    в”‚
-в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
-в”‚ L3: BOSHQARUV QATLAMI                                      в”‚
-в”‚     вЂў AI Engine вЂў Kontent generatsiya вЂў Tavsiyalar        в”‚
-в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
-в”‚ L2: INFRATUZILMA QATLAMI                                   в”‚
-в”‚     вЂў Moslashuvchan interfeyslari вЂў 8 turdagi qurilmalar   в”‚
-в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
-в”‚ L1: PROTOKOL QATLAMI                                       в”‚
-в”‚     вЂў ML modellari вЂў Axloqiy validatsiya вЂў Semantika      в”‚
-в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
-в”‚ L0.5: TERRA MICROCORE                                      в”‚
-в”‚     вЂў Semantik yadro вЂў Tamoyillar avto-in'ektsiyasi       в”‚
-в”њв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”¤
-в”‚ L0: FALSAFIY ASOS                                          в”‚
-в”‚     вЂў 5 Terra tamoyili вЂў Universal qadriyatlar            в”‚
-в””в”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”Ђв”
+┌─────────────────────────────────────────────────────────────┐
+│                    TERRA OS CORE                            │
+│                 (Asosiy integratsiya)                      │
+├─────────────────────────────────────────────────────────────┤
+│ L4: INTERFEYS QATLAMI                                      │
+│     • Bilim iqtisodiyoti • Tokenizatsiya • Reputatsiya     │
+├─────────────────────────────────────────────────────────────┤
+│ L3: BOSHQARUV QATLAMI                                      │
+│     • AI Engine • Kontent generatsiya • Tavsiyalar         │
+├─────────────────────────────────────────────────────────────┤
+│ L2: INFRATUZILMA QATLAMI                                   │
+│     • Moslashuvchan interfeyslar • 8 turdagi qurilmalar    │
+├─────────────────────────────────────────────────────────────┤
+│ L1: PROTOKOL QATLAMI                                       │
+│     • ML modellari • Axloqiy validatsiya • Semantika       │
+├─────────────────────────────────────────────────────────────┤
+│ L0.5: TERRA MICROCORE                                      │
+│     • Semantik yadro • Tamoyillar avto-in'ektsiyasi        │
+├─────────────────────────────────────────────────────────────┤
+│ L0: FALSAFIY ASOS                                          │
+│     • 5 Terra tamoyili • Universal qadriyatlar             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ***
 
-## рџ“‹ TIZIM KOMPONENTLARI
+## 📋 TIZIM KOMPONENTLARI
 
 ### L0: Falsafiy asos
 
-#### рџЋЇ CodexTerraPhilosophy
+#### 🎯 CodexTerraPhilosophy
 
 **Maqsad:** Tizimning asosiy axloqiy tamoyillari va qadriyatlari
 
