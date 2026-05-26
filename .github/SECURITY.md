@@ -1,6 +1,6 @@
 # Security Policy for Terra Ecosystem
 
-## рџ›ЎпёЏ Core Principle: Child Safety First
+## 🛡️ Core Principle: Child Safety First
 The Terra Ecosystem strictly adheres to the **Gefunden Protocol** and **Privacy by Design**. The safety, privacy, and psychological well-being of children are our absolute highest priorities.
 
 ## Supported Versions
@@ -11,14 +11,14 @@ The Terra Ecosystem strictly adheres to the **Gefunden Protocol** and **Privacy 
 | v4.0.x  | :white_check_mark: |
 | < v4.0  | :x:                |
 
-## рџљЁ Reporting a Vulnerability
+## 🚨 Reporting a Vulnerability
 
 If you discover a security vulnerability, privacy leak, or any threat vector that could potentially affect child safety within the Terra Ecosystem, please report it immediately.
 
 **Do not open a public issue.** Please send an e-mail to Abdurashid A. Abdukarimov at:
-рџ“§ **a.abdukarimov@fractal-metascience.org**
+📧 **a.abdukarimov@fractal-metascience.org**
 
-### рџ“‹ Threat Response Guidelines
+### 📋 Threat Response Guidelines
 1. **Confidential Reporting:** All vulnerabilities must be reported privately.
 2. **Responsible Disclosure:** Allow the core team time to patch the vulnerability before public disclosure.
 3. **Child-Specific Threats:** Any vulnerability exposing children's data or bypassing content filters is classified as **CRITICAL** and will trigger an immediate ecosystem-wide lockdown.

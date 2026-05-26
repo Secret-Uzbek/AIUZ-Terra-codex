@@ -67,7 +67,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L0.5: Terra MicroCore
 
-#### рџ§  TerraMicroCoreAdvanced
+#### 🧠 TerraMicroCoreAdvanced
 
 **Maqsad:** Kontentga Terra tamoyillarini avtomatik in'ektsiya qilish
 
@@ -79,7 +79,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L1: Protokol qatlami
 
-#### рџ”Ќ SemanticCoreAdvanced
+#### 🔍 SemanticCoreAdvanced
 
 **Maqsad:** Axloqiy validatsiya bilan foydalanuvchi so'rovlarini qayta ishlash
 
@@ -98,7 +98,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L2: Infratuzilma qatlami
 
-#### рџ–ҐпёЏ AdaptiveInterfaceAdvanced
+#### 🖥️ AdaptiveInterfaceAdvanced
 
 **Maqsad:** Interfeyesni foydalanuvchi va qurilmaga moslashtirish
 
@@ -116,7 +116,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L3: Boshqaruv qatlami
 
-#### рџ¤– AIEngineAdvanced
+#### 🤖 AIEngineAdvanced
 
 **Maqsad:** Terra tamoyillari bilan kontent va tavsiyalar generatsiyasi
 
@@ -132,7 +132,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### L4: Interfeys qatlami
 
-#### рџ’° KnowledgeEconomyAdvanced
+#### 💰 KnowledgeEconomyAdvanced
 
 **Maqsad:** Bilim iqtisodiyoti va hissalarni tokenizatsiya
 
@@ -150,7 +150,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ### TERRA OS: Asosiy integratsiya
 
-#### рџЊџ TerraOS Core
+#### 🌟 TerraOS Core
 
 **Maqsad:** Butun tizimni boshqarish uchun markaziy sinf
 
@@ -170,7 +170,7 @@ AIUZ Terra OS - o'rnatilgan axloqiy tamoyillari, moslashuvchan interfeyslari va 
 
 ***
 
-## рџ”§ TEXNIK TALABLAR
+## 🔧 TEXNIK TALABLAR
 
 ### Tizim talablari
 
@@ -207,7 +207,7 @@ TOKEN_EMISSION_LIMITS = {
 
 ***
 
-## рџ“Љ MONITORING VA METRIKLAR
+## 📊 MONITORING VA METRIKLAR
 
 ### Tizim metrikalari
 
@@ -224,7 +224,7 @@ TOKEN_EMISSION_LIMITS = {
 
 ***
 
-## рџ›ЎпёЏ XAVFSIZLIK
+## 🛡️ XAVFSIZLIK
 
 ### Axloqiy validatsiya
 
@@ -240,7 +240,7 @@ TOKEN_EMISSION_LIMITS = {
 
 ***
 
-## рџ“€ RIVOJLANISH ROADMAP
+## 📈 RIVOJLANISH ROADMAP
 
 ### Versiya 3.1 (Q3 2025)
 
@@ -262,7 +262,7 @@ TOKEN_EMISSION_LIMITS = {
 
 ***
 
-## рџ“„ LITSENZIYA
+## 📄 LITSENZIYA
 
 **Xususiy litsenziya**\
 В© 2025 AIUZ Terra OS Project\
