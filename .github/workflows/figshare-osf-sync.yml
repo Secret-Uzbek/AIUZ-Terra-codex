@@ -1,4 +1,4 @@
-﻿name: figshare-osf-sync
+name: figshare-osf-sync
 
 on:
   workflow_dispatch:
@@ -45,7 +45,7 @@ jobs:
       OSF_TOKEN: ${{ secrets.OSF_SYNC_TOKEN || secrets.OSF_TOKEN }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Resolve repository metadata
         id: meta

@@ -1,4 +1,4 @@
-﻿name: zenodo-release
+name: zenodo-release
 
 on:
   workflow_dispatch:
@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB || secrets.GHP_TOKEN || github.token }}
