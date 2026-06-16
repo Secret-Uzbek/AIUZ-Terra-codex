@@ -265,7 +265,7 @@ TOKEN_EMISSION_LIMITS = {
 ## 📄 LITSENZIYA
 
 **Xususiy litsenziya**\
-В© 2025 AIUZ Terra OS Project\
+© 2025 AIUZ Terra OS Project\
 Barcha huquqlar himoyalangan.
 
 **Muallif:** <a.abdukarimov@fractal-metascience.org>\

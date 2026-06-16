@@ -24,5 +24,5 @@ If you discover a security vulnerability, privacy leak, or any threat vector tha
 3. **Child-Specific Threats:** Any vulnerability exposing children's data or bypassing content filters is classified as **CRITICAL** and will trigger an immediate ecosystem-wide lockdown.
 4. **Ethical Validation:** All security patches will undergo rigorous ethical and child safety reviews before deployment.
 
-В© 2025 Terra Ecosystem Contributors.
+© 2025 Terra Ecosystem Contributors.
 ORCID: 0009-0000-6394-4912
