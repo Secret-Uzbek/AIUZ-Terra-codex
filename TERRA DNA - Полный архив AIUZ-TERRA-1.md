@@ -3235,7 +3235,7 @@ class TerraFutureReadiness:
 
 ***
 
-## 🎯 изоляцИЕ АРХИВА
+## 🎯 заключение АРХИВА
 
 ### Статистика TERRA DNA
 

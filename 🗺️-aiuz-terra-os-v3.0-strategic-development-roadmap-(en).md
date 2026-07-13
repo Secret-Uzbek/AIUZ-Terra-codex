@@ -236,31 +236,31 @@
 
 ### End of 2025
 
-* вњ… **Pilot project success** - 85%+ satisfaction
-* вњ… **MVP readiness** - all features
-* вњ… **First customers** - $500K ARR
-* вњ… **Team formation** - 30 people
+* ✅ **Pilot project success** - 85%+ satisfaction
+* ✅ **MVP readiness** - all features
+* ✅ **First customers** - $500K ARR
+* ✅ **Team formation** - 30 people
 
 ### End of 2026
 
-* вњ… **Regional leadership** - #1 in Central Asia
-* вњ… **Investment raise** - $10M Series A
-* вњ… **International expansion** - Europe and US
-* вњ… **Scaling** - $25M ARR
+* ✅ **Regional leadership** - #1 in Central Asia
+* ✅ **Investment raise** - $10M Series A
+* ✅ **International expansion** - Europe and US
+* ✅ **Scaling** - $25M ARR
 
 ### End of 2027
 
-* вњ… **Global presence** - 15+ countries
-* вњ… **Market leadership** - in education OS sector
-* вњ… **Technology innovation** - AI 2.0 integration
-* вњ… **Social impact** - 10M+ users
+* ✅ **Global presence** - 15+ countries
+* ✅ **Market leadership** - in education OS sector
+* ✅ **Technology innovation** - AI 2.0 integration
+* ✅ **Social impact** - 10M+ users
 
 ### End of 2028
 
-* вњ… **Unicorn status** - $1B+ valuation
-* вњ… **IPO ready** - public company
-* вњ… **Global impact** - 50+ countries
-* вњ… **Sustainable development** - SDG goals
+* ✅ **Unicorn status** - $1B+ valuation
+* ✅ **IPO ready** - public company
+* ✅ **Global impact** - 50+ countries
+* ✅ **Sustainable development** - SDG goals
 
 ***
 
@@ -295,7 +295,7 @@ IRR: 120%+
 
 ***
 
-## вљ пёЏ RISKS & MITIGATION STRATEGIES
+## вљ ️ RISKS & MITIGATION STRATEGIES
 
 ### Technical Risks
 
